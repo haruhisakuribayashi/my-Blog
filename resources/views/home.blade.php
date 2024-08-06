@@ -1,4 +1,3 @@
-@dd($postingan)
 
 @extends('layouts.main')
 

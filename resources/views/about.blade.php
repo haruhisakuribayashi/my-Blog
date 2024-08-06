@@ -8,4 +8,6 @@
 <h2> {{ $email }}</h2>
 <img src="<?php echo $picture ?>" width="50px" name="<?php $name ?>">
 @endsection
+
+
    
